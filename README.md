@@ -27,5 +27,31 @@ To organize and execute the two different simulated scenarios (Proposed protocol
  
  - interact.js: Contains the logic to interact with the deployed contract and simulate attacks.
   
-   # Running the Simulation :
+# Running the Simulation :
  - node  interact.js
+   # Authors' Information :
+
+Aradhita Mukherjee
+
+Ca’ Foscari University of Venice, Venice, Italy
+
+E-mail: aradhita.mukherjee.2016@gmail.com
+
+Luca Olivieri
+
+Ca’ Foscari University of Venice, Venice, Italy
+
+E-mail: luca.olivieri@unive.it 
+
+Nabendu Chaki 
+
+University of Calcutta, Kolkata, West Bengal, India
+
+E-mail: nabendu@ieee.org
+
+Agostino Cortesi
+
+Ca’ Foscari University of Venice, Venice, Italy
+
+E-mail: cortesi@unive.it 
+
